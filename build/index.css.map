@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./app/style/base.css"],"names":[],"mappings":"AAAA,UACI,SAAW","file":"index.css","sourcesContent":[".selected {\r\n    color: red;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./app/style/base.css"],"sourceRoot":""}
